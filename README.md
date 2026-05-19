@@ -111,10 +111,6 @@ The application displays:
 
 This project was created to practice building data-driven web applications using Python and Streamlit. It also demonstrates how software tools can be used to make sustainability-related information easier to understand for everyday users.
 
-## Acknowledgment
-
-This project is based on an open-source Streamlit carbon calculator starter project by AIAnytime. It has been imported, documented, and customized for learning, portfolio, and sustainability awareness purposes.
-
 ## License
 
 This project follows the MIT License included in the repository.
